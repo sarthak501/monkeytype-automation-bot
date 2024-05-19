@@ -1,0 +1,5 @@
+- "MonkeySprinter": Python bot employing Selenium WebDriver.
+- Automates MonkeyType speed test.
+- Achieves typing speeds exceeding 400+ words per minute.
+- Revolutionizes typing practice with unmatched efficiency.
+- Enhances precision in typing skills development.
